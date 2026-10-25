@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohammad-aldosari.github.io/store-studio-site/sitemap.xml
